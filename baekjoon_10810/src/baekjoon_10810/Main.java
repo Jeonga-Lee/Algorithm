@@ -20,6 +20,7 @@ public class Main{
 		
 		int M = Integer.parseInt(st.nextToken());
 		
+		
 		// 횟수 만큼 i, j, k 입력 받기
 		// 받을 때 마다 바구니에 넣어주기
 		for(int m=0 ; m<M ; m++) {
