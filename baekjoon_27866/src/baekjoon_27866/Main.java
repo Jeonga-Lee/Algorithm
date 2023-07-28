@@ -13,6 +13,7 @@ public class Main{
 
 		String S = st.nextToken();
 	
+		
 		System.out.println(S.length());
 	}
 }
