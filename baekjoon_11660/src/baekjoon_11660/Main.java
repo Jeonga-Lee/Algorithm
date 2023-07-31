@@ -58,6 +58,5 @@ public class Main {
 			int result = D[x2][y2] - D[x1-1][y2] - D[x2][y1-1] + D[x1-1][y1-1];
 			System.out.println(result);
 		}
-		
 	}
 }
