@@ -34,7 +34,6 @@ public class Main{
 		// 1번 바구니부터 N번 바구니까지 공의 번호 공백으로 구분해 출력
 		for(int i=1 ; i<N.length ; i++) {
 			System.out.print(N[i]+" ");
-		}
-		
+		}	
 	}
 }
