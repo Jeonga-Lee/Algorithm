@@ -23,8 +23,6 @@ public class Main{
  
 		for(int i = 0; i < S.length(); i++) {
 			char ch = S.charAt(i);
-			System.out.println(ch - 'a');
-			System.out.println(arr[ch - 'a']);
 			
 			if(arr[ch - 'a'] == -1) {	// arr 원소 값이 -1 인 경우에만 초기화
 				arr[ch - 'a'] = i;
